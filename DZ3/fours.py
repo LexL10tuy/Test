@@ -1,0 +1,1 @@
+print('To be\n    Or not\n          To be')
